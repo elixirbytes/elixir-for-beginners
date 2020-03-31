@@ -1,39 +1,70 @@
-# REPL
+# REPL (Read Eval Print Loop)
 
 Elixir è un linguaggio con una sintassi molto simile a quella di Ruby che però,
 contrariamente a Ruby, sfrutta la potenza della BEAM, ovvero la virtual machine
 di Erlang, e dell’ecosistema OTP per costruire ed eseguire applicazioni per la
 maggior parte di rete, a bassa latenza, distribuite, fault-tolerant.
 
-Oltre ad essere un vero gioiellino per le web application ed in generale la
-programmazione distribuita, la sintassi funzionale impura Ruby-like lo rende in
-realtà un meraviglioso giocattolino general purpose, che diventa adatto per
-costruire qualsiasi tipo di programma, anche un CLI tool o altro.
+Elixir, e' un linguaggio particolarmente adatto ai sistemi "soft real-time",
+cioe' quei sistemi che devono gestire contemporeneamente ed efficentemente molti
+compiti (task/processi).
+
+Ad esempio, pensate a quante cose possa fare un sito web articolato, come un e-commerce.
+Seguirvi lungo tutto il vostro percorso di acquisto, aggiornare le vostre
+raccomandazioni in tempo reale (come YouTube), oppure mandare notifiche nel caso
+ci sia una novita' di interesse in accordo ai vostri gusti personali, etc
+
+La BEAM, e di conseguenza Elixir, inoltre e' adatta a qualsiasi applicazione di
+coordinazione di processi.
+Ad esempio, la BEAM ha gestito e gestisce reti telefoniche, reti digitali,
+programmi collaborativi.
+Approfondiremo i campi applicativi di Elixir, proseguendo il corso
 
 Il sito ufficiale del linguaggio è https://elixir-lang.org/
 
-Setup
-Il setup dell’ambiente è abbastanza facile. Su MacOS:
+- Installazione (MacOSX)
+Per installare Elixir su MacOSX, e' fortemente consigliato installare `brew`
 
+```bash
 $ brew install elixir
-Su Linux leggermente meno, ma dipende dalla distribuzione che usiamo. In genere
-abbiamo il pacchetto elixir nei repository della nostra distribuzione. Per Arch
-Linux è sufficiente un:
+```
 
-# pacman -S elixir
+- Installazione (Linux)
 
-Ubuntu e Debian per esempio prevedono che venga usato il repository di pacchetti
-di Erlang Solutions:
+## Distribuzioni basate su Debian (Ubuntu, Linux Mint, etc)
 
+Il modo piu' diretto per installare Erlang/OTP ed Elixir e' usare i pacchetti di
+Erlang Solutions (una societa' di consulenza che organizza conferenze sul mondo
+della BEAM e fornisce supporto alle startup e alle ditte che usano Erlang /
+Elixir)
+
+```bash
 $ wget https://packages.erlang-solutions.com/erlang-solutions_1.0_all.deb
 $ sudo dpkg -i erlang-solutions_1.0_all.deb
 $ sudo apt-get update
 $ sudo apt-get install esl-erlang elixir
+```
+
+## Arch Linux
+
+```bash
+pacman -S elixir
+```
+
+
+## Windows
+
+Nessuno di noi usa Windows, pero' potete trovare le istruzioni sul sito
+ufficiale di Elixir:
+
+https://elixir-lang.org/install.html#windows
 
 In caso di necessità comunque, informazioni aggiornate possono essere trovate
 sulla pagina ufficiale.
 
-REPL Ora che abbiamo il nostro setup possiamo divertirci con il REPL.
+## REPL
+
+Ora che abbiamo il nostro setup possiamo inizare a giocare con il REPL.
 
 A Read–Eval–Print Loop (REPL), also known as an interactive toplevel or language
 shell, is a simple, interactive computer programming environment that takes
@@ -44,17 +75,21 @@ similar to the classic Lisp machine interactive environment. Common examples
 include command line shells and similar environments for programming languages,
 and is particularly characteristic of scripting languages.
 
-Tip: moltissimi altri linguaggi hanno un REPL incluso nell’ambiente di sviluppo,
-come Python (python), JavaScript (node o la stessa console di Chrome), Ruby
-(irb), Haskell (ghci).
+Suggerimento: moltissimi altri linguaggi hanno un REPL incluso nell’ambiente di
+sviluppo, come:
 
-Il nostro REPL nello specifico si chiama iex. Lanciandolo nel terminale ci dà un
-po’ di informazioni utili,
+* Python -- python/ipython
+* JavaScript -- nodejs, o anche la console del vostro browser (Firefox, Chrome, ecc)
+* Ruby -- irb
+* Haskell -- ghci
 
-~opodiché sta a noi cominciare a fabbricare i nostri elixir:
+Il nostro REPL nello specifico si chiama `iex`.
+Scrivendo `iex` nel terminale ed eseguendo il comando premendo il tasto invio:
+
+Dopodiché sta a noi cominciare a fabbricare i nostri elixir: (?? :) )
 
 ```shell
-22:02:51 › iex
+$ iex
 
 Interactive Elixir (1.5.3) - press Ctrl+C to exit (type h() ENTER for help)
 iex(1)>
