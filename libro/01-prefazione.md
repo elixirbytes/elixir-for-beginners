@@ -7,7 +7,7 @@ Lovelace, il :) [il primo programmatore di computer] al mondo(http://en.wikipedi
 
 In questo libro, per semplicità, userò i pronomi al maschile poiché mi viene più naturale essendo io un uomo.
 
-Perfavore prendete nota di ciò che non è chiaro durante le lezioni ed usiamo dei momenti appositi
+Per favore prendete nota di ciò che non è chiaro durante le lezioni ed usiamo dei momenti appositi
 per chiedere delucidazioni e chiarire dubbi.
 
 Questo libro e le idee espresse in questo corso non sono univoche ed universalmente valide, 
