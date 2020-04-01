@@ -2,7 +2,7 @@
 
 *Give and take*
 
-Proprio comme un dizionario ci aiuta a capire il senso delle parole, la documenazione del codice 
+Proprio comme un dizionario ci aiuta a capire il senso delle parole, la documentazione del codice 
 ci aiuta a capire il senso di funzioni e variabili. Hexdocs è il nostro migliore amico, il codice stesso ha la
 capacità di comunicarci che cosa fa, in che condizioni e come andrebbe usato.
 
