@@ -1,6 +1,6 @@
 # Prefazione
 
-Leggi questo libro al tuo ritmo e fai esercizi a tuo ritmo.
+Leggi questo libro al tuo ritmo e fai esercizi al tuo ritmo.
 
 Usando il nome "Ada" negli esempi di questo libro diamo credito ad Ada Lovelace,
 il :) [il primo programmatore di computer] al
