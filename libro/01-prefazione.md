@@ -1,13 +1,13 @@
 # Prefazione
 
-Leggi questo libro al tuo ritmo e fai esercizi a tuo ritmo.
+Leggi questo libro al tuo ritmo e fai esercizi al tuo ritmo.
 
 Usando il nome "Ada" negli esempi di questo libro diamo credito ad Ada
-Lovelace, il :) [il primo programmatore di computer] al mondo(http://en.wikipedia.org/wiki/Ada_Lovelace)
+Lovelace, il :) [il primo programmatore di computer] al mondo (http://en.wikipedia.org/wiki/Ada_Lovelace).
 
 In questo libro, per semplicità, userò i pronomi al maschile poiché mi viene più naturale essendo io un uomo.
 
-Per favore prendete nota di ciò che non è chiaro durante le lezioni ed usiamo dei momenti appositi
+Per favore prendi nota di ciò che non è chiaro durante le lezioni ed usiamo dei momenti appositi
 per chiedere delucidazioni e chiarire dubbi.
 
 Questo libro e le idee espresse in questo corso non sono univoche ed universalmente valide, 
