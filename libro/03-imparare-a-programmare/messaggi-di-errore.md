@@ -27,5 +27,5 @@ Questo consentirà al motore di ricerca di restringere i risultati e farci
 trovare persone che hanno avuto lo stesso errore in passato e magari anche
 qualche soluzione.
 
-Stackoverflow, Google groups, Github issues sono luighi in cui i programmatori
+Stackoverflow, Google groups, Github issues sono luoghi in cui i programmatori
 si aiutano a vicenda. Non siamo soli.
