@@ -14,6 +14,7 @@ Altri editor di testo "moderni" che potrebbe valere la pena guardare sono:
 
 * Atom [Atom](https://it.wikipedia.org/wiki/Atom_(editor))
 * Textmate 2 (Texmate 2)
+* Visual Studio Code
 
 Nel caso volesti investire tempo in editor di testo che esistono da 30/40 anni,
 potresti provare:
