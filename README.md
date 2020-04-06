@@ -1,4 +1,4 @@
-# Elixir For Beginners
+# Elixir per principianti (Lavori in corso)
 
 *Gruppo di studio su Erlang ed Elixir*
 
