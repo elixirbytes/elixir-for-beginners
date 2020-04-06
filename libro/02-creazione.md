@@ -4,7 +4,7 @@
 
 Programmare significa creare. Quando eseguiamo un programma, un piccolo universo
 viene creato. Le cose prendono vita ed iniziano ad interagire tra di loro, il
-tutto attraverso le regole che tu, in qualità di creatore, hai definito.
+tutto attraverso le regole che tu, hai definito.
 
 Immagina di create un'app come Instagram.
 
