@@ -29,7 +29,7 @@ nome in cui in quel "contesto" ci riferiamo al numero `1`.
 Un'altra cosa importante da notare è che in Elixir, 
 l'operatore `=` non "assegna" il valore `1` a `name` ma crea quello che si chiama "pattern match".
 
-Il pattern matchin è il riconoscimento di pattern all'interno di struttura dati 
+Il pattern matching è il riconoscimento di pattern all'interno di struttura dati 
 astratta. Per esempio: 
 
 `{a, b} = {1, 2}` è un pattern che può avere un match
