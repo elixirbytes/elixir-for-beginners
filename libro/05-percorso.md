@@ -59,19 +59,19 @@ Come rappresentiamo la nostra realtà e dati più complessi in Elixir. Molto
 spesso gli structs vengono utilizzati per rappresentare oggetti più complessi,
 vedremo come crearli ed usarli.
 
-### 8. Condizioni
+### 7. Condizioni
 
 Ci sono casi in cui vogliamo eseguire del codice solo in determinate condizioni.
 Vedremo comme eseguire tale distinzione e come, nello specifico, questo è 
 gestito da Elixir/Erlang.
 
-### 9. Operatori 
+### 8. Operatori 
 
 Ci sono molti diversi operatori matematici offerti da Elixir,
 a questo punto ne avremo già usati alcuni. Li vedremo insieme andando 
 a guardare i più semplici `+`, `-` e più complessi come `++`, `=`.
 
-### 10. I processi
+### 9. I processi
 
 Una delle differenze sostanziali tra Elixir ed altri linguaggi di programmazione
 è la natura del programma stesso. All'interno dell'universo che è Erlang VM,
