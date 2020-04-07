@@ -8,7 +8,7 @@ Questo curriculumn, è creato sulla base di due idee principali:
 
 * Introduciamo un concetto alla volta, così facendo ci assicuriamo che la 
   conoscenza sia  costruita su ciò che è già stato spiegato.
-* Arriviamo il primma possibile al punto in cui possiamo creare moduli e funzioni.
+* Arriviamo il prima possibile al punto in cui possiamo creare moduli e funzioni.
   Siamo convinti che questo sia  il modo migliore per imparare.
 
 Ovviamente, non dovete seguire necessariamente questo percorso. Dopo aver
