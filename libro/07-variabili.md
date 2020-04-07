@@ -23,7 +23,7 @@ number = 1
 IO.inspect(number)
 ```
 
-Una cosa importante da notare è che la variabile non è il nummero in sè, ma solo il
+Una cosa importante da notare è che la variabile non è il numero in sè, ma solo il
 nome in cui in quel "contesto" ci riferiamo al numero `1`.
 
 Un'altra cosa importante da notare è che in Elixir, 
