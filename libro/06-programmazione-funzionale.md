@@ -40,7 +40,7 @@ Questa funzione chiamata `y` non fa altro che prendere un argomento di nome `x` 
 La funzione serve a mappare i valori dati come argomenti, trasformarli all'intero della funzione stessa
 chiamata `body` ed assegnarli ad una variabile (nel nostro caso `y`)
 
-Possiamo immaginare i nostri programmi Elixir come una serie di funzioni che chamano 
+Possiamo immaginare i nostri programmi Elixir come una serie di funzioni che chiamano 
 l'un l'altra fino a produrre quello che è stato inteso dal programmatore.
 
 Quello che facciamo quando scriviamo un programma Elixir, è di 
@@ -49,4 +49,3 @@ i dati fino a raggingere il risultato finale. Per questo motivo è importante
 dare alle funzioni nomi che abbiano un senso, serve che indichiamo 
 ai nostri colleghi quale parte del problema stiamo processando con la funzione
 che abbiamo sott'occhio in quel mommento.
-
