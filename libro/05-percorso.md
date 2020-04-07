@@ -45,7 +45,7 @@ Vedremo insieme anche il concetto di "pattern matching"
 ### 4. Moduli e funzioni
 
 Vedremo come creare moduli e funzioni e come invocare le stesse in modi diversi.
-Vedremo anche alcune delle funzioni principali usate dal Kernel Elixir e cosa include tale modulo.
+Vedremo anche alcune delle funzioni principali usate dal `Kernel` Elixir e cosa include tale modulo.
 
 ### 5. Scrivere funzioni 
 
@@ -82,4 +82,3 @@ tra diversi processi.
 ### Conclusioni 
 
 Questo conclude il nostro curriculumn "Elixir per principianti" :)
-
