@@ -1,4 +1,4 @@
-# Varibili 
+# Variabili 
 
 *Dare nomi ai dati*
 
@@ -44,4 +44,3 @@ Elixir farà tutte queste valutazioni per noi e, nel caso di successo,
 assegnerà ad a il valore 1 ed a b il valore 2.
 
 Questo è esattamente il principio per cui `number = 1` funziona nel nostro esempio precedente.
-
