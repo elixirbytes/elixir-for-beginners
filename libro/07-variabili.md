@@ -9,7 +9,7 @@ Ogni linguaggio di programmazione che useremo permette di creare variabili.
 In Elixir possiamo assegnare un nome ad alcuni darti usando l'operatore `=`, in questo
 modo:
 
-```elixr
+```elixir
 number = 1
 ```
 
@@ -44,5 +44,4 @@ Elixir farà tutte queste valutazioni per noi e, nel caso di successo,
 assegnerà ad a il valore 1 ed a b il valore 2.
 
 Questo è esattamente il principio per cui `number = 1` funziona nel nostro esempio precedente.
-
 
