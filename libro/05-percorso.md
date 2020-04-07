@@ -2,7 +2,7 @@
 
 Ok, iniziamo. 
 
-Quella che segue è una breve overview sul percorso che ci aspetta.
+Quella che segue è una breve panoramica sul percorso che ci aspetta.
 
 Questo curriculumn, è creato sulla base di due idee principali:
 
