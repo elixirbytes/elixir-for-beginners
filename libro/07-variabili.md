@@ -13,7 +13,7 @@ modo:
 number = 1
 ```
 
-Così facendoo *assigneremo* al nome `number` il dato che è il numero
+Così facendo *assegneremo* al nome `number` il dato che è il numero
 `1`. Da questo momento in poi possiamo riferirci al numero `1` con `number`.
 
 Per esempio possiamo mostrare a schermo il numero in questo modo:
