@@ -6,7 +6,7 @@ Per fare riferimento a specifici dati nei nostri programmi, usiamo le variabili.
 
 Ogni linguaggio di programmazione che useremo permette di creare variabili.
 
-In Elixir possiamo assegnare un nome ad alcuni darti usando l'operatore `=`, in questo
+In Elixir possiamo assegnare un nome ad alcuni dati usando l'operatore `=`, in questo
 modo:
 
 ```elixir
