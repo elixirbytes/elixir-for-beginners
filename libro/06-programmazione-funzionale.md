@@ -34,7 +34,9 @@ La funzione qui sopra non fa altro che applicare una trasformazione a X. Se dove
 la funzione teorica qui sopra con qualcosa di più pratico potremmo scrivere: 
 
 `f = fn x -> x + 1 end # creiamo la nostra variabile astratta`
+
 `x = 1 # assegnamo a x il valore 1`
+
 `y = f.(1) # <-- quindi 2`
 
 
