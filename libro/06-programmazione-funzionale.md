@@ -33,7 +33,10 @@ Per esempio:
 La funzione qui sopra non fa altro che applicare una trasformazione a X. Se dovessimo concretizzare
 la funzione teorica qui sopra con qualcosa di più pratico potremmo scrivere: 
 
-`y = fn(x -> x + 1 end)`
+`f = fn x -> x + 1 end # creiamo la nostra variabile astratta`
+`x = 1 # assegnamo a x il valore 1`
+`y = f.(1) # <-- quindi 2`
+
 
 Questa funzione chiamata `y` non fa altro che prendere un argomento di nome `x` ed aggiungerci `1`
 
