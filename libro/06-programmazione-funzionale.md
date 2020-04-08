@@ -24,7 +24,7 @@ ma nel senso matematico del termine. Le funzioni dei linguaggi procedurali o
 imperativi sono realmente delle procedure piuttosto che delle funzioni e svolgono
 in questo senso delle pure direttive di calcolo. La funzione matematica invece non 
 esegue calcoli ma si limita a mappare valori e viene definita infatti, 
-come una: trasformazione o mappa od operatore; 
+come una: trasformazione o mappa od operatore; In Elixir le funzioni si distinguono tra anonime e non. Quelle non anonime hanno sempre lo stesso nome, mentre quelle anonime sono assegnate a variabili temporanee.
 
 Per esempio:
 
