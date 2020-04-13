@@ -34,7 +34,7 @@ cosa è una variabile e come si usano.
 
 ### 3. Dati complessi
 
-Oltre alle varibili, a cui possiamoo assegnare ogni tipo di valore,
+Oltre alle varibili, a cui possiamo assegnare ogni tipo di valore,
 Elixir ha alcuni tipi di dati più complessi e noi possiamo usarli.
 
 Vedremo come viene rappresentato il testo, i numeri, le liste,
