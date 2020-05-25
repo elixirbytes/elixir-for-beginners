@@ -1,6 +1,6 @@
 # Imparare a programmare 
 
-*Brainwashing yourself*
+*Relearn yourself*
 
 Imparare a programmare significa due cose: imparare una nuova lingua ed imparare
 a risolvere problemi usando tale lingua. Programmare significa scrivere codice
@@ -22,7 +22,7 @@ nel modo corretto: piegare le gambe, inclinare i piedi spingere con determinati
 muscoli etc..
 
 La prima volta che abbiamo dovuto imparare a camminare quando eravamo bambini
-non è stato certo semplice, ci abbiamo messo un pò. Ma adesso, ogni volta che lo
+non è stato certo semplice, ci abbiamo messo un po'. Ma adesso, ogni volta che lo
 facciamo, non ci pensiamo neanche.
 
 Programmare è molto simile, un programmatore non sta li a pensare a come
@@ -31,7 +31,7 @@ naturalmente e lo si adatta al meglio al proprio caso. Questo è anche uno dei
 motivi per cui esistono così tanti linguaggi di programmazione, per ogni tipo di
 problema potremmo averne uno che si adatta al meglio ad esprimere tale contesto.
 
-Quando iniziamo ad imparare a programmare è davvero comune sentirsi un pò persi
+Quando iniziamo ad imparare a programmare è davvero comune sentirsi un po' persi
 nel mare di nuove informazioni che si ricevono. Molto comune è non capire tutto
 subito, tutti noi abbiamo dei limiti e siamo umani. Per ogni cosa ci vuol tempo,
 e così anche per imparare a programmare.

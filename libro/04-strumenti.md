@@ -1,6 +1,7 @@
 - I tuoi strumenti
 
-Quando inizierai a imparare a programmare in Elixir avrai bisogno di tre strumenti:
+Quando inizierai ad imparare a programmare in Elixir avrai bisogno principalmente,
+di tre strumenti:
 
 * Un editor di testo
 * Un terminale
@@ -16,7 +17,7 @@ Inoltre, conoscendo come configurare il tuo editor di testo, ti permetterà di
 sentirti a casa quando scrivi codice.
 
 Ci sono editor di testo che possono essere integrati in una finestra del
-terminale (vim).
+terminale (ad esempio `vim`).
 Ciò significa che non è necessario passare da un'applicazione all'altra mentre
 si lavora.
 
@@ -27,5 +28,5 @@ Sentitevi liberi di provare e giocare con questi strumenti.
 
 Tuttavia, per i nostri gruppi di studio, sappiamo che l'utilizzo degli strumenti
 più semplici possibili, almeno per un po', funziona meglio: riduce la quantità
-di cose che le persone hanno bisogno di imparare, e tutti imparano le stesse poche
-cose di base che sono necessarie per eseguire un programma in Elixir.
+di cose che le persone hanno bisogno di imparare, e tutti imparano le stesse
+poche cose di base che sono necessarie per eseguire un programma in Elixir.

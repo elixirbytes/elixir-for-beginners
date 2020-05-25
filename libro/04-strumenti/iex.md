@@ -5,20 +5,21 @@ contrariamente a Ruby, sfrutta la potenza della BEAM, ovvero la virtual machine
 di Erlang, e dell’ecosistema OTP per costruire ed eseguire applicazioni per la
 maggior parte di rete, a bassa latenza, distribuite, fault-tolerant.
 
-Elixir, e' un linguaggio particolarmente adatto ai sistemi "soft real-time",
-cioe' quei sistemi che devono gestire contemporeneamente ed efficentemente molti
+Elixir, è un linguaggio particolarmente adatto ai sistemi "soft real-time",
+cioè quei sistemi che devono gestire contemporeneamente ed efficentemente molti
 compiti (task/processi).
 
-Ad esempio, pensate a quante cose possa fare un sito web articolato, come un e-commerce.
-Seguirvi lungo tutto il vostro percorso di acquisto, aggiornare le vostre
-raccomandazioni in tempo reale (come YouTube), oppure mandare notifiche nel caso
-ci sia una novita' di interesse in accordo ai vostri gusti personali, etc
+Ad esempio, pensate a quante cose possa fare un sito web articolato, come un
+e-commerce. Seguirvi lungo tutto il vostro percorso di acquisto, aggiornare le
+vostre raccomandazioni in tempo reale (come YouTube), oppure mandare notifiche
+nel caso ci sia una novita' di interesse in accordo ai vostri gusti personali,
+etc
 
-La BEAM, e di conseguenza Elixir, inoltre e' adatta a qualsiasi applicazione di
+La BEAM, e di conseguenza Elixir, inoltre è adatta a qualsiasi applicazione di
 coordinazione di processi.
 Ad esempio, la BEAM ha gestito e gestisce reti telefoniche, reti digitali,
 programmi collaborativi.
-Approfondiremo i campi applicativi di Elixir, proseguendo il corso
+Approfondiremo i campi applicativi di Elixir, proseguendo il corso.
 
 Il sito ufficiale del linguaggio è https://elixir-lang.org/
 
@@ -62,10 +63,11 @@ https://elixir-lang.org/install.html#windows
 In caso di necessità comunque, informazioni aggiornate possono essere trovate
 sulla pagina ufficiale.
 
-## REPL
+## REPL (Read Eval Print Loop)
 
 Ora che abbiamo il nostro setup possiamo inizare a giocare con il REPL.
 
+```
 A Read–Eval–Print Loop (REPL), also known as an interactive toplevel or language
 shell, is a simple, interactive computer programming environment that takes
 single user inputs (i.e. single expressions), evaluates them, and returns the
@@ -74,6 +76,7 @@ piecewise. The term is most usually used to refer to programming interfaces
 similar to the classic Lisp machine interactive environment. Common examples
 include command line shells and similar environments for programming languages,
 and is particularly characteristic of scripting languages.
+```
 
 Suggerimento: moltissimi altri linguaggi hanno un REPL incluso nell’ambiente di
 sviluppo, come:
@@ -86,8 +89,6 @@ sviluppo, come:
 Il nostro REPL nello specifico si chiama `iex`.
 Scrivendo `iex` nel terminale ed eseguendo il comando premendo il tasto invio:
 
-Dopodiché sta a noi cominciare a fabbricare i nostri elixir: (?? :) )
-
 ```shell
 $ iex
 
@@ -97,13 +98,13 @@ iex(1)>
 
 Ci siamo.
 
-Hello world
+Hello world!
 
 Il percorso di apprendimento di un nuovo linguaggio comincia sempre con un hello world.
 
 ```elixir
-iex(1)> IO.puts("hello world!")
-hello world!
+iex(1)> IO.puts("Hello world!")
+"Hello world!
 :ok
 iex(2)>
 ```
