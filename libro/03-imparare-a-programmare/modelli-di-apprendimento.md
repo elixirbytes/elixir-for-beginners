@@ -6,7 +6,7 @@ Persone diverse apprendono in modo diverso. Alcune persone preferiscono
 ascoltare podcast, alcune guardare video, altri ancora leggono a bassa ed alta
 voce.
 
-Ricordo mia sorella studiare quasi esclusivamente leggendo ad alta voce mentre
+Ricordo mia sorella studiare quasi esclusivamente leggendo ad alta voce, mentre
 io lo facevo in silenzio.
 
 Qualcuno vuole capire cosa ogni singola riga di codice sta facendo, alcuni

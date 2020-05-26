@@ -1,10 +1,10 @@
-# Leggere i messaggi di errore 
+# Leggere i messaggi di errore
 
 *Your new best friends*
 
 Mentre scriviamo codice potrebbe capitare di leggere dei messaggi di errore.
-Errori potrebbero essere una indicazione che la nostra soluzione non funziona,
-giusto? Si e no :D
+Gli errori potrebbero essere una indicazione che la nostra soluzione non
+funziona, giusto? Si e no :D
 
 Alcune volte è vero, l'errore compare proprio perché la nostra soluzione non sta
 funzionando correttamente. Ma molto spesso i messaggi di errore sono nostri
@@ -20,12 +20,22 @@ Chiaramente i messaggi sono quasi sempre in inglese e conoscere questa lingua
 aiuta tantissimo, ma per il momento, non conoscendola possiamo usare il nostro
 più grande alleato: Google.
 
-Con Google l'incoraggiamento che faccio è di a) tradurre il messaggio di errore
+Con Google l'incoraggiamento che faccio è di:
+
+a) tradurre il messaggio di errore
 b) cercare l'errore aggiungendoci la parola Elixir
 
 Questo consentirà al motore di ricerca di restringere i risultati e farci
 trovare persone che hanno avuto lo stesso errore in passato e magari anche
 qualche soluzione.
 
-Stackoverflow, Google groups, Github issues sono luoghi in cui i programmatori
-si aiutano a vicenda. Non siamo soli.
+Stackoverflow[^1], Google groups[^2], Github[^3] ed ElixirForum[^4] sono luoghi
+in cui i programmatori si aiutano a vicenda. Non siamo soli.
+
+[^1]: https://stackoverflow.com/
+
+[^2]: https://groups.google.com
+
+[^3]: https://github.com
+
+[^4]: https://elixirforum.com/
